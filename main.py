@@ -38,31 +38,61 @@ with st.sidebar:
              caption="Entre 24 a 26 de Janeiro de 2025...💞")
     st.image("IMG-4-735px.jpg",
              caption='O AMOR ESTÁ NO ARR!!❤️ Esses foram os 3 dias que passei ao seu lado, junto de seus pais e sua família, amei cada segundo que passei ao seu lado, pude refletir no quão boa, perfeita e agradável é a vontade de Deus para as nossas vidas. Tive a oportunidade de dar o meu primeiro beijo na mulher da minha vida, pela primeira vez na minha vida pude ter a certeza e sentir beijar os lábios da pessoa certa que um dia será a mãe dos nossos filhos, percebi nesses dias seu cuidado a mim desde os pequenos detalhes, seu olhar me encantava a cada vez que eu os admirava, nossa troca de olhares e sorrisos, nossas palavras de afirmações, momento de qualidade, conversa até tarde da noite, troca de afetos, o boa noite acompanhado de um beijo, cada vez que eu te chamei de linda, nossas mãos entrelaçadas, me fizeram te conhecer e amar cada vez mais a benção que o Senhor colocou no meu caminho, te admiro meu bem, amo o seu jeito único de ser e agir, esses dias de muitos que virão pela frente ficarão eternizados em nossas memórias, quero viver cada momento ao seu lado como se fosse o último. Meu choro após esses dias foram de alegria, gratidão e saudades por querer mais e mais estar perto do amor da minha vida, mas sei que não nos faltará momentos, e sei que um dia realizaremos nossos sonhos e poderemos enfim viver para sempre um ao lado do outro até o fim. A cada dia meu amor por você não somente se renova, mas também fica mais forte assim como as misericórdias e o amor do nosso Senhor em nossas vidas! Posso afirmar com toda conviccção de que você é a mulher da minha vida, minha primeira namorada, minha parceira, e minha última, e futura esposa, você hoje é minha oração diária, mas daqui a pouco eu vou te pedir em namoro, depois em noivado e por fim casar com você. Amar não é um sentimento, Amar é uma decisão, decisão de cuidar, de suportar, de estar sempre ao seu lado, de te amar assim como Cristo ama seu rebanho! Tenho a certeza de que estamos no caminho certo, esperando sempre em Deus com paciência e paz por cada etapa que está por vir, sempre pondo Ele na frente de tudo, estamos fazendo o certo, pode parecer que ás vezes está demorando, mas sabemos que na verdade Ele está caprichando em cada detalhe de nossas vidas e de nosso futuro juntos!!❤️ Eu te amo minha princesa, te amar, cuidar, valorizar e zelar pela sua vida a cada dia é o meu anseio, e isso não vai mudar até o fim da minha vida, eu amo te amar minha gatinha...!❤️')
+    st.header("Mais e mais momentos...❤️", divider= "blue")
+    st.image("735a.jpg",
+             caption='14 de Fevereiro de 2025...💞')
+    st.image("735b.jpg",
+             caption='14 de Fevereiro de 2025...💞')
+    st.image("735c.jpg",
+             caption='14 de Fevereiro de 2025...💞')
+    st.video("VID-20250215-WA0004.mp4")
+    st.image("735k.jpg",
+             caption='15 de Fevereiro de 2025...💞')
+    st.image("735l.jpg",
+             caption='15 de Fevereiro de 2025...💞')
+    st.image("735m.jpg",
+             caption='15 de Fevereiro de 2025...💞')
+    st.image("735d.jpg",
+             caption='15 de Fevereiro de 2025...💞')
+    st.image("735e.jpg",
+             caption='15 de Fevereiro de 2025...💞')
+    st.image("735f.jpg",
+             caption='16 de Fevereiro de 2025...💞')
+    st.image("735g.jpg",
+             caption='16 de Fevereiro de 2025...💞')
+    st.image("735h.jpg",
+             caption='16 de Fevereiro de 2025...💞')
+    st.image("735i.jpg",
+             caption='16 de Fevereiro de 2025...💞')
+    st.video("despedida.mp4.mp4")
+    st.image("735j.jpg",
+             caption='16 de Fevereiro de 2025...💞')
     st.header("", divider= "blue")
     st.image("recadinho_735px.png",
              caption='')
     st.header("", divider= "blue")
     
 with st.container(border=True):
-    st.header("Explore minha princesa😊❤️", divider="blue")
-    st.subheader("Play nas músicas que lembram a gente...🎶❤️")
-    st.audio("Lied_To.mp3", format="audio/mpeg",loop=False)
+    st.header("Explore minha gatinha😊❤️", divider="blue")
+    st.subheader("Nem o mais lindo verso de uma música capaz de demonstrar o que sinto por você meu amor...❤️")
+    st.audio("Music.mp3", format="audio/mpeg",loop=False)
     st.audio("Final Feliz - Jorge Vercilo.mp3", format="audio/mpeg", loop=False)
+    st.audio("Lied_To.mp3", format="audio/mpeg", loop=False)
     st.header("Aperte em cada '❤️' para explorar:", divider="blue")
 
-    col1, col2, col3, col4, col5, col6, col7, col8 = st.columns(8)
+    col1, col2, col3, col4, col5, col6, col7, col8, col9, col10 = st.columns(10)
     with col1:
         btn1 = st.button(
             "❤️",
             use_container_width= True, key=1)
         if btn1:
-            caixa_modal('Você foi a melhor coisa que me aconteceu a muito tempo...💘')
+            caixa_modal('Você é o tesouro mais precioso que Deus me concedeu em toda minha vida...💘')
     with col2:
         btn2 = st.button(
                 "❤️",
                 use_container_width=True, key=2)
         if btn2:
-            caixa_modal('O que devo falar do seus olhos? O brilho dos seus olhos me fascinam, você me fascina garota!!💘')
+            caixa_modal('Anseio desfrutar de cada momento ao seu lado como se fosse o último!💘')
     with col3:
         btn3 = st.button("❤️",
                 use_container_width=True, key=3)
@@ -80,7 +110,7 @@ with st.container(border=True):
                 "❤️",
                 use_container_width=True, key=5)
         if btn5:
-            caixa_modal('Você desperta a forte masculinidade que há dentro de mim, e me inspira a ser um homem de honra, eu te amo com todo o meu ser minha princesa!!🥰❤️')
+            caixa_modal('Todo momento ao seu lado é único!!🥰❤️')
     with col6:
         btn6 = st.button(
             "❤️",
@@ -99,3 +129,15 @@ with st.container(border=True):
             use_container_width=True, key=8)
         if btn8:
             caixa_modal('Vejo o brilho do Espírito Santo em você!!💖')
+    with col9:
+        btn9 = st.button(
+            "❤️",
+            use_container_width=True, key=9)
+        if btn9:
+            caixa_modal('Por você eu esperaria até o final dos tempos...💖')
+    with col10:
+        btn10 = st.button(
+            "❤️",
+            use_container_width=True, key=10)
+        if btn10:
+            caixa_modal('Amo cada detalhe em você minha princesa!!💖')        
