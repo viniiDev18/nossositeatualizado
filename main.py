@@ -120,7 +120,7 @@ with st.sidebar:
     st.image("IMG-20250304-WA0016.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("recadinho_735px.jpg",
+    st.image("recadinho_735px.png",
              caption='')
     st.header("", divider= "blue")
 
