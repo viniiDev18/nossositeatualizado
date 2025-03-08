@@ -128,7 +128,7 @@ with st.sidebar:
 with st.container(border=True):
     st.header("Seja bem vinda, este site é 100% ""inspirado em você minha princesa!!😊❤️", divider="blue")
     st.subheader("Nem o mais lindo verso de uma música capaz de demonstrar o que sinto por você meu amor...❤️")
-    st.audio("Cidade Negra - Onde Você Mora？ (DVD Acústico MTV)", format="audio/mpeg",loop=False)
+    st.audio("Cidade Negra - Onde Você Mora？ (DVD Acústico MTV).mp3", format="audio/mpeg",loop=False)
     st.audio("Final Feliz - Jorge Vercilo.mp3", format="audio/mpeg", loop=False)
     st.audio("3 X 4 (Ao Vivo).mp3", format="audio/mpeg", loop=False)
     st.header("Aperte em cada '❤️' para explorar:", divider="blue")
