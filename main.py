@@ -38,6 +38,22 @@ with st.sidebar:
              caption="Entre 24 a 26 de Janeiro de 2025...💞")
     st.image("IMG-4-735px.jpg",
              caption='O AMOR ESTÁ NO ARR!!❤️ Esses foram os 3 dias que passei ao seu lado, junto de seus pais e sua família, amei cada segundo que passei ao seu lado, pude refletir no quão boa, perfeita e agradável é a vontade de Deus para as nossas vidas. Tive a oportunidade de dar o meu primeiro beijo na mulher da minha vida, pela primeira vez na minha vida pude ter a certeza e sentir beijar os lábios da pessoa certa que um dia será a mãe dos nossos filhos, percebi nesses dias seu cuidado a mim desde os pequenos detalhes, seu olhar me encantava a cada vez que eu os admirava, nossa troca de olhares e sorrisos, nossas palavras de afirmações, momento de qualidade, conversa até tarde da noite, troca de afetos, o boa noite acompanhado de um beijo, cada vez que eu te chamei de linda, nossas mãos entrelaçadas, me fizeram te conhecer e amar cada vez mais a benção que o Senhor colocou no meu caminho, te admiro meu bem, amo o seu jeito único de ser e agir, esses dias de muitos que virão pela frente ficarão eternizados em nossas memórias, quero viver cada momento ao seu lado como se fosse o último. Meu choro após esses dias foram de alegria, gratidão e saudades por querer mais e mais estar perto do amor da minha vida, mas sei que não nos faltará momentos, e sei que um dia realizaremos nossos sonhos e poderemos enfim viver para sempre um ao lado do outro até o fim. A cada dia meu amor por você não somente se renova, mas também fica mais forte assim como as misericórdias e o amor do nosso Senhor em nossas vidas! Posso afirmar com toda conviccção de que você é a mulher da minha vida, minha primeira namorada, minha parceira, e minha última, e futura esposa, você hoje é minha oração diária, mas daqui a pouco eu vou te pedir em namoro, depois em noivado e por fim casar com você. Amar não é um sentimento, Amar é uma decisão, decisão de cuidar, de suportar, de estar sempre ao seu lado, de te amar assim como Cristo ama seu rebanho! Tenho a certeza de que estamos no caminho certo, esperando sempre em Deus com paciência e paz por cada etapa que está por vir, sempre pondo Ele na frente de tudo, estamos fazendo o certo, pode parecer que ás vezes está demorando, mas sabemos que na verdade Ele está caprichando em cada detalhe de nossas vidas e de nosso futuro juntos!!❤️ Eu te amo minha princesa, te amar, cuidar, valorizar e zelar pela sua vida a cada dia é o meu anseio, e isso não vai mudar até o fim da minha vida, eu amo te amar minha gatinha...!❤️')
+    st.header("Celebrando sua formatura❤️", divider= "blue")
+    st.image("IMG-20250304-WA0005.png",
+             caption='07 de Fevereiro de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250304-WA0000.png",
+             caption='07 de Fevereiro de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250304-WA0007.png",
+             caption='07 de Fevereiro de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250304-WA0009.png",
+             caption='07 de Fevereiro de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250304-WA0006.png",
+             caption='07 de Fevereiro de 2025...💞')
+    st.header("", divider= "blue")
     st.header("Mais e mais momentos...❤️", divider= "blue")
     st.image("735a.jpg",
              caption='14 de Fevereiro de 2025...💞')
@@ -67,17 +83,54 @@ with st.sidebar:
     st.video("despedida.mp4.mp4")
     st.image("735j.jpg",
              caption='16 de Fevereiro de 2025...💞')
+    st.header("Dias antes do retiro💞", divider= "blue")
+    st.image("IMG-20250222-WA0100.png",
+             caption='22 de Fevereiro de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250222-WA0101.png",
+             caption='22 de Fevereiro de 2025...💞')
+    st.header("5 Dias cheios de Deus, alegria, amor e emoção ao seu lado!!❤️", divider= "blue")
+    st.image("IMG-20250305-WA0254.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250305-WA0246.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250305-WA0248.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250305-WA0251.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250305-WA0236.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250305-WA0235.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250305-WA0233.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250304-WA0012.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250304-WA0017.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
+    st.header("", divider= "blue")
+    st.image("IMG-20250304-WA0016.png", 
+             caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
     st.image("recadinho_735px.png",
              caption='')
     st.header("", divider= "blue")
+
     
 with st.container(border=True):
-    st.header("Explore minha gatinha😊❤️", divider="blue")
+    st.header("Seja bem vinda, este site é 100% ""inspirado em você minha princesa!!😊❤️", divider="blue")
     st.subheader("Nem o mais lindo verso de uma música capaz de demonstrar o que sinto por você meu amor...❤️")
-    st.audio("Music.mp3", format="audio/mpeg",loop=False)
+    st.audio("Cidade Negra - Onde Você Mora？ (DVD Acústico MTV)", format="audio/mpeg",loop=False)
     st.audio("Final Feliz - Jorge Vercilo.mp3", format="audio/mpeg", loop=False)
-    st.audio("Lied_To.mp3", format="audio/mpeg", loop=False)
+    st.audio("3 X 4 (Ao Vivo).mp3", format="audio/mpeg", loop=False)
     st.header("Aperte em cada '❤️' para explorar:", divider="blue")
 
     col1, col2, col3, col4, col5, col6, col7, col8, col9, col10 = st.columns(10)
@@ -86,7 +139,7 @@ with st.container(border=True):
             "❤️",
             use_container_width= True, key=1)
         if btn1:
-            caixa_modal('Você é o tesouro mais precioso que Deus me concedeu em toda minha vida...💘')
+            caixa_modal('Amor igual ao teu, eu nunca mais terei...💘')
     with col2:
         btn2 = st.button(
                 "❤️",
@@ -116,13 +169,13 @@ with st.container(border=True):
             "❤️",
             use_container_width=True, key=6)
         if btn6:
-            caixa_modal('Te quero e te desejo a cada segundo que se passa...💘')
+            caixa_modal('Meu coração é seu!!💘')
     with col7:
         btn7 = st.button(
             "❤️",
             use_container_width=True, key=7)
         if btn7:
-            caixa_modal('Você é o amor da minha vida todinha🥰❤️')
+            caixa_modal('Deus, eu e você para sempre!❤️')
     with col8:
         btn8 = st.button(
             "❤️",
@@ -140,4 +193,4 @@ with st.container(border=True):
             "❤️",
             use_container_width=True, key=10)
         if btn10:
-            caixa_modal('Amo cada detalhe em você minha princesa!!💖')        
+            caixa_modal('Nada e nem ninguém poderá tirar meu amor de você! Eu te amo até o fim dos tempos...💖')
