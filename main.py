@@ -39,19 +39,19 @@ with st.sidebar:
     st.image("IMG-4-735px.jpg",
              caption='O AMOR ESTÁ NO ARR!!❤️ Esses foram os 3 dias que passei ao seu lado, junto de seus pais e sua família, amei cada segundo que passei ao seu lado, pude refletir no quão boa, perfeita e agradável é a vontade de Deus para as nossas vidas. Tive a oportunidade de dar o meu primeiro beijo na mulher da minha vida, pela primeira vez na minha vida pude ter a certeza e sentir beijar os lábios da pessoa certa que um dia será a mãe dos nossos filhos, percebi nesses dias seu cuidado a mim desde os pequenos detalhes, seu olhar me encantava a cada vez que eu os admirava, nossa troca de olhares e sorrisos, nossas palavras de afirmações, momento de qualidade, conversa até tarde da noite, troca de afetos, o boa noite acompanhado de um beijo, cada vez que eu te chamei de linda, nossas mãos entrelaçadas, me fizeram te conhecer e amar cada vez mais a benção que o Senhor colocou no meu caminho, te admiro meu bem, amo o seu jeito único de ser e agir, esses dias de muitos que virão pela frente ficarão eternizados em nossas memórias, quero viver cada momento ao seu lado como se fosse o último. Meu choro após esses dias foram de alegria, gratidão e saudades por querer mais e mais estar perto do amor da minha vida, mas sei que não nos faltará momentos, e sei que um dia realizaremos nossos sonhos e poderemos enfim viver para sempre um ao lado do outro até o fim. A cada dia meu amor por você não somente se renova, mas também fica mais forte assim como as misericórdias e o amor do nosso Senhor em nossas vidas! Posso afirmar com toda conviccção de que você é a mulher da minha vida, minha primeira namorada, minha parceira, e minha última, e futura esposa, você hoje é minha oração diária, mas daqui a pouco eu vou te pedir em namoro, depois em noivado e por fim casar com você. Amar não é um sentimento, Amar é uma decisão, decisão de cuidar, de suportar, de estar sempre ao seu lado, de te amar assim como Cristo ama seu rebanho! Tenho a certeza de que estamos no caminho certo, esperando sempre em Deus com paciência e paz por cada etapa que está por vir, sempre pondo Ele na frente de tudo, estamos fazendo o certo, pode parecer que ás vezes está demorando, mas sabemos que na verdade Ele está caprichando em cada detalhe de nossas vidas e de nosso futuro juntos!!❤️ Eu te amo minha princesa, te amar, cuidar, valorizar e zelar pela sua vida a cada dia é o meu anseio, e isso não vai mudar até o fim da minha vida, eu amo te amar minha gatinha...!❤️')
     st.header("Celebrando sua formatura❤️", divider= "blue")
-    st.image("IMG-20250304-WA0005.png",
+    st.image("IMG-20250304-WA0005.jpg",
              caption='07 de Fevereiro de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250304-WA0000.png",
+    st.image("IMG-20250304-WA0000.jpg",
              caption='07 de Fevereiro de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250304-WA0007.png",
+    st.image("IMG-20250304-WA0007.jpg",
              caption='07 de Fevereiro de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250304-WA0009.png",
+    st.image("IMG-20250304-WA0009.jpg",
              caption='07 de Fevereiro de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250304-WA0006.png",
+    st.image("IMG-20250304-WA0006.jpg",
              caption='07 de Fevereiro de 2025...💞')
     st.header("", divider= "blue")
     st.header("Mais e mais momentos...❤️", divider= "blue")
@@ -84,43 +84,43 @@ with st.sidebar:
     st.image("735j.jpg",
              caption='16 de Fevereiro de 2025...💞')
     st.header("Dias antes do retiro💞", divider= "blue")
-    st.image("IMG-20250222-WA0100.png",
+    st.image("IMG-20250222-WA0100.jpg",
              caption='22 de Fevereiro de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250222-WA0101.png",
+    st.image("IMG-20250222-WA0101.jpg",
              caption='22 de Fevereiro de 2025...💞')
     st.header("5 Dias cheios de Deus, alegria, amor e emoção ao seu lado!!❤️", divider= "blue")
-    st.image("IMG-20250305-WA0254.png", 
+    st.image("IMG-20250305-WA0254.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250305-WA0246.png", 
+    st.image("IMG-20250305-WA0246.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250305-WA0248.png", 
+    st.image("IMG-20250305-WA0248.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250305-WA0251.png", 
+    st.image("IMG-20250305-WA0251.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250305-WA0236.png", 
+    st.image("IMG-20250305-WA0236.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250305-WA0235.png", 
+    st.image("IMG-20250305-WA0235.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250305-WA0233.png", 
+    st.image("IMG-20250305-WA0233.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250304-WA0012.png", 
+    st.image("IMG-20250304-WA0012.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250304-WA0017.png", 
+    st.image("IMG-20250304-WA0017.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("IMG-20250304-WA0016.png", 
+    st.image("IMG-20250304-WA0016.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
-    st.image("recadinho_735px.png",
+    st.image("recadinho_735px.jpg",
              caption='')
     st.header("", divider= "blue")
 
