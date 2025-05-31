@@ -120,10 +120,50 @@ with st.sidebar:
     st.image("IMG-20250304-WA0016.jpg", 
              caption='28 de Fevereiro a 04 Março de 2025...💞')
     st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43.jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (1).jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (2).jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (3).jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (4).jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (5).jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (7).jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.video("WhatsApp Video 2025-05-31 at 18.53.43 (1).mp4")
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (9).jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (10).jpeg",
+             caption='...aaaaaaaaaa💞💞')
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (11).jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (12).jpeg",
+             caption='...💞')
+    st.header("", divider= "blue")
+    st.video("WhatsApp Video 2025-05-31 at 18.53.43 (2).mp4")
+    st.header("", divider= "blue")
+    st.image("WhatsApp Image 2025-05-31 at 18.53.43 (13).jpeg",
+             caption='Juntos até o fim...!!💞')
+    st.header("", divider= "blue")
     st.image("recadinho_735px.png",
              caption='')
     st.header("", divider= "blue")
-
+    
     
 with st.container(border=True):
     st.header("Seja bem vinda, este site é 100% ""inspirado em você minha princesa!!😊❤️", divider="blue")
@@ -139,13 +179,13 @@ with st.container(border=True):
             "❤️",
             use_container_width= True, key=1)
         if btn1:
-            caixa_modal('Amor igual ao teu, eu nunca mais terei...💘')
+            caixa_modal('A saudade só me faz te amar mais e mais a cada segundo...💘')
     with col2:
         btn2 = st.button(
                 "❤️",
                 use_container_width=True, key=2)
         if btn2:
-            caixa_modal('Anseio desfrutar de cada momento ao seu lado como se fosse o último!💘')
+            caixa_modal('Anseio te ver logo logo e te falar o quanto eu te amo de todas as maneiras possíveis!!💘')
     with col3:
         btn3 = st.button("❤️",
                 use_container_width=True, key=3)
@@ -163,25 +203,25 @@ with st.container(border=True):
                 "❤️",
                 use_container_width=True, key=5)
         if btn5:
-            caixa_modal('Todo momento ao seu lado é único!!🥰❤️')
+            caixa_modal('Conto os segundos para estar ao seu lado..❤️')
     with col6:
         btn6 = st.button(
             "❤️",
             use_container_width=True, key=6)
         if btn6:
-            caixa_modal('Meu coração é seu!!💘')
+            caixa_modal('Meu coração é seu, sou todo seu minha princesa!!💘')
     with col7:
         btn7 = st.button(
             "❤️",
             use_container_width=True, key=7)
         if btn7:
-            caixa_modal('Deus, eu e você para sempre!❤️')
+            caixa_modal('Deus, eu e você sempre!!❤️')
     with col8:
         btn8 = st.button(
             "❤️",
             use_container_width=True, key=8)
         if btn8:
-            caixa_modal('Vejo o brilho do Espírito Santo em você!!💖')
+            caixa_modal('Mesmo distante... eu te sinto perto a cada segundo com seu cuidado e amor💖')
     with col9:
         btn9 = st.button(
             "❤️",
@@ -193,4 +233,4 @@ with st.container(border=True):
             "❤️",
             use_container_width=True, key=10)
         if btn10:
-            caixa_modal('Nada e nem ninguém poderá tirar meu amor de você! Eu te amo até o fim dos tempos...💖')
+            caixa_modal('Nada e nem ninguém poderá tirar meu amor de você! Eu te amo até o fim dos tempos minha querida...💖')
