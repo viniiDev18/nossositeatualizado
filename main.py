@@ -1,7 +1,12 @@
 import streamlit as st
-
+import streamlit as st
+from datetime import datetime
+import time
 
 st.set_page_config(page_title="Leh & Vini", page_icon="heart-1.ico")
+
+# Data de início do relacionamento
+data_inicio = datetime(2024, 12, 24, 23, 6, 0)  # exemplo: 10 de maio de 2023, às 20h30
 
 
 @st.dialog("<3")
@@ -164,14 +169,16 @@ with st.sidebar:
              caption='')
     st.header("", divider= "blue")
     
-    
+
 with st.container(border=True):
+    
     st.header("Seja bem vinda, este site é 100% ""inspirado em você minha princesa!!😊❤️", divider="blue")
-    st.subheader("Nem o mais lindo verso de uma música capaz de demonstrar o que sinto por você meu amor...❤️")
+    st.subheader("Nem o mais lindo verso de uma música capaz de demonstrar o que sinto por você minha gatinha...❤️")
     st.audio("Cidade Negra - Onde Você Mora？ (DVD Acústico MTV).mp3", format="audio/mpeg",loop=False)
     st.audio("Final Feliz - Jorge Vercilo.mp3", format="audio/mpeg", loop=False)
     st.audio("3 X 4 (Ao Vivo).mp3", format="audio/mpeg", loop=False)
     st.header("Aperte em cada '❤️' para explorar:", divider="blue")
+
 
     col1, col2, col3, col4, col5, col6, col7, col8, col9, col10 = st.columns(10)
     with col1:
@@ -234,3 +241,84 @@ with st.container(border=True):
             use_container_width=True, key=10)
         if btn10:
             caixa_modal('Nada e nem ninguém poderá tirar meu amor de você! Eu te amo até o fim dos tempos minha querida...💖')
+
+st.title("⏳💖 Tempo juntos:")
+
+# 💖 CSS romântico
+st.markdown("""
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@300;700&display=swap');
+
+    .titulo {
+        font-family: 'Pacifico', cursive;
+        font-size: 3.2em;
+        text-align: center;
+        background: linear-gradient(90deg, #ff4081, #ff80ab);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 30px;
+        animation: pulse 2s infinite;
+    }
+
+    .contador {
+        font-family: 'Roboto', sans-serif;
+        font-size: 1.8em;
+        background: #fff0f5;
+        padding: 30px;
+        border-radius: 25px;
+        border: 2px solid #f48fb1;
+        box-shadow: 0 8px 20px rgba(255, 105, 180, 0.2);
+        text-align: center;
+        color: #880e4f;
+        transition: all 0.3s ease-in-out;
+        margin-top: 20px;
+    }
+
+    .contador strong {
+        color: #c2185b;
+        font-weight: bold;
+    }
+
+    @keyframes pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+st.markdown('<div class="title"></div>', unsafe_allow_html=True)
+
+# Local reservado para o contador
+contador = st.empty()
+
+while True:
+    agora = datetime.now()
+    diferenca = agora - data_inicio
+
+    # Quebra da diferença total
+    total_segundos = int(diferenca.total_seconds())
+    anos = total_segundos // (365*24*60*60)
+    dias_restantes = total_segundos % (365*24*60*60)
+
+    dias = dias_restantes // (24*60*60)
+    horas_restantes = dias_restantes % (24*60*60)
+
+    horas = horas_restantes // 3600
+    minutos_restantes = horas_restantes % 3600
+
+    minutos = minutos_restantes // 60
+    segundos = minutos_restantes % 60
+
+    contador.markdown(
+        f"""
+        <div class="contador">
+        Estamos juntos há:<br><br>
+        <strong>{anos}</strong> ano(s), <strong>{dias}</strong> dia(s),<br>
+        <strong>{horas}</strong> hora(s), <strong>{minutos}</strong> minuto(s), <strong>{segundos}</strong> segundo(s) 💖
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+    time.sleep(1)
